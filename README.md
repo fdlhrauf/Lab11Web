@@ -90,163 +90,163 @@ Memeriksa penambahan route di CLI dengan perintah "php spark routes"
 
 Mengakses file about.php akan terlihat seperti berikut , karena tidak ada isinya.
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss11/notfound.jpg)
 
 Membuat controller dengan nama file page.php
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss11/page.jpg)
 
 Hasil yang di tampilkan sebagai berikut
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss11/halamanabout.jpg)
 
 Membuat method baru controoller page
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss11/page2.jpg)
 
 Ini hasilnya.
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss11/hasilhalaman.jpg)
 
 Membuat view about.php app/view/about.php
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss11/about.jpg)
 
 Mengubah method about pada class Controller Page menjadi seperti ini
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss11/page3.jpg)
 
 Ini hasilnya.
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss11/editinglab.jpg)
 
 Membuat CSS pada pratikum ke 4
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss11/stylecss.jpg)
 
 Membuat file Header dengan Folder template/view/header.php
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss11/header.jpg)
 
 Membuat file footernya juga
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss11/footer.jpg)
 
 Dan kemudian mengubah file about.php pada app/view/about.php
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss11/ubahabout.jpg)
 
 Ini hasilnya
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss11/hasilabout.jpg)
 
 Pertanyaan dan Tugas
 Lengkapi kode program untuk menu lainnya yang ada pada Controller Page, sehingga semua link pada navigasi header dapat menampilkan tampilan dengan layout yang sama.
 
 Membuat file contact.php, faqs.php, tos.php seperti berikut.
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss11/tugas.jpg)
 
 membuat sourch code seperti berikut pada file app/Controllers
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss11/page4.jpg)
 
 Ini hasilnya
 
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss11/hasilhalaman.jpg)
 
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss11/hasiltos.jpg)
 
-
-
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss11/halamanfaqs.jpg)
 
 Pratikum ke 12
 Membuat table dan database.
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/001.jpg)
 
 Konfigurasi dengan database server dengan mensetting file app/config/database.php
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/002.jpg)
 
 Membuat model untuk mengakses artikel.
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/003.jpg)
 
 Membuat controller artikel.php
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/004.jpg)
 
 Membuat folder baru di dalam app/views dan membuat file baru dengan nama index.php.
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/005.jpg)
 
 Hasil Outputnya
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/006.jpg)
 
 Menambahkan data ke dalam tabel artikel.
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/007.jpg)
 
 Hasil outputnya.
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/008.jpg)
 
 Membuat tampilan detail artikel dengan menambahkan fungsi baru pada controller/Artikel.php
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/009.jpg)
 
 Membuat view detail.php di direktori app/views/artikel/detail.php
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/010.jpg)
 
 Membuat routing untuk artikel detail di app/config/Routes.php
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/011.jpg)
 
 Membuat menu untuk proses CRUD dan membuat method baru pada controllers/Artikel.php
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/012.jpg)
 
 Membuat views/artikel/admin_index.php untuk tampilan admin.
 
-
+![imag]()
 
 Menambahkan routing pada menu admin. berada di file app/Config/Routes.
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/012.jpg)
 
 Hasil outputnya.
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/013.jpg)
 
 CRUD Menambah data pada artikel, di direktori app/Controllers/Artikel.php
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/014.jpg)
 
 Membuat form tambah di direktori app/views/artikel/form_add.php
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/015.jpg)
 
 Hasil Outputnya.
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/016.jpg)
 
 Menambahkan fungsi method untuk ubah data artikel di direktori app/Controller/Artikel.php
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/017.jpg)
 
 Membuat form ubah yang sudah terisi data sebelumnya.
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/018.jpg)
 
 Hasil outputnya.
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/019.jpg)
 
 Membuat penghapusan data, dengan menambahkan fungsi/method pada direktori app/Controllers/Artikel.php
 
-
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/020.jpg)
 
 
 # Pratikum 13
