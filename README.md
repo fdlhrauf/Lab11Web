@@ -19,7 +19,7 @@ langkah selanjutnya unduh codeigniter, extrack filenya dan masukan ke dalam xamp
 
 Bukalah localhost:8080 di browser.
 
-![imag](https://github.com/fdlhrauf/Labss11/blob/main/ss11/8080.JPG)
+![imag](https://github.com/fdlhrauf/Labss11/blob/main/ss11/8080.jpg)
 
 Codeigniter 4 menyediakan CLI untuk mempermudah proses development. Untuk mengakses CLI buka terminal/command prompt dan gunakan "php spark"
 
@@ -288,7 +288,7 @@ Tambahkan config auth app/Config/Filters.php
 
 Ubah routes app/Config/Routes.php
 
-![imag](https://github.com/fdlhrauf/Labss11/blob/main/ss13/0011.jpg)
+![imag](https://github.com/fdlhrauf/Labss11/blob/main/ss13/011.jpg)
 
 Percobaan output login h.ttp://localhost:8080/admin/artikel dan akan muncul halaman login
 
@@ -343,6 +343,3 @@ Menambahkan encrypt type
 Hasil output
 
 ![imag](https://github.com/fdlhrauf/Labss11/blob/main/11.jpg)
-
-
-![imag](https://github.com/fdlhrauf/Labss11/blob/main/12.jpg)
