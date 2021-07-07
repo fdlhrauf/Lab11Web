@@ -182,51 +182,51 @@ Membuat folder baru di dalam app/views dan membuat file baru dengan nama index.p
 
 Hasil Outputnya
 
-![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/006.jpg)
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/021.jpg)
 
 Menambahkan data ke dalam tabel artikel.
 
-![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/007.jpg)
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/006.jpg)
 
 Hasil outputnya.
 
-![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/008.jpg)
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/007.jpg)
 
 Membuat tampilan detail artikel dengan menambahkan fungsi baru pada controller/Artikel.php
 
-![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/009.jpg)
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/008.jpg)
 
 Membuat view detail.php di direktori app/views/artikel/detail.php
 
-![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/010.jpg)
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/009.jpg)
 
 Membuat routing untuk artikel detail di app/config/Routes.php
 
-![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/011.jpg)
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/010.jpg)
 
 Membuat menu untuk proses CRUD dan membuat method baru pada controllers/Artikel.php
 
-![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/012.jpg)
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/011.jpg)
 
 Membuat views/artikel/admin_index.php untuk tampilan admin.
 
-![imag]()
+![imag]((https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/012.jpg)
 
 Menambahkan routing pada menu admin. berada di file app/Config/Routes.
 
-![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/012.jpg)
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/013.jpg)
 
 Hasil outputnya.
 
-![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/013.jpg)
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/014.jpg)
 
 CRUD Menambah data pada artikel, di direktori app/Controllers/Artikel.php
 
-![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/014.jpg)
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/015.jpg)
 
 Membuat form tambah di direktori app/views/artikel/form_add.php
 
-![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/015.jpg)
+![imag](https://github.com/fdlhrauf/Lab11Web/blob/main/ss12/022.jpg)
 
 Hasil Outputnya.
 
