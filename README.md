@@ -1,4 +1,4 @@
-# Pratikum 11,12,13: PHP Framework (Codeigniter)
+# Pratikum 11,12,13,14: PHP Framework (Codeigniter)
 # Praktikum Lainnya Ada Pada Link Tugas Github
 # PERSIAPAN
 1. Gunakan text editor, saya menggunakan sublime.
@@ -8,6 +8,7 @@
 ![imag](https://github.com/fdlhrauf/Labss11/blob/main/ss11/xampp.jpg)
 
 3. Membuat folder baru lab11_php_ci
+4. 
 
 
 # Pratikum 13
@@ -58,3 +59,51 @@ Percobaan output login h.ttp://localhost:8080/admin/artikel dan akan muncul hala
 Fungsi logout
 
 ![imag](https://github.com/fdlhrauf/Labss11/blob/main/ss13/013.jpg)
+
+# PRAKTIKUM 14
+
+Membuat pagination Controller/Artikel. admin_index
+
+foto
+
+Menambahkan kode views/artikel/admin_index
+
+foto
+
+output page
+
+foto
+
+Membuat pencaharian Controller/Artikel. admin_index
+
+foto
+
+Menambahkan form pencaharian views/artikel/admin_index.php
+
+
+
+Mengubah link pagenya
+
+
+
+Hasil output
+
+
+
+Menambahkan fungsi unggah gambar Controller/Artikel. method add
+
+
+
+Menambahkan field input views/artikel/form_add.php
+
+
+
+Menambahkan encrypt type
+
+
+
+Hasil output
+
+
+
+
